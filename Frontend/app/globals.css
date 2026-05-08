@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-cloud text-ink antialiased;
+}
+
+body::selection {
+  background: rgba(255, 107, 74, 0.18);
+}
+
+a,
+button,
+input,
+select,
+textarea {
+  @apply focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-coral focus-visible:ring-offset-2 focus-visible:ring-offset-cloud;
+}
+
+.surface-muted {
+  background: rgba(255, 255, 255, 0.65);
+}
