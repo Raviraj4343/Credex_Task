@@ -1,87 +1,87 @@
 # DEVLOG
 
-Use this as a fill-in template. Replace every placeholder with your real work from that day. Credex says they compare this against git history, so keep it honest and concrete.
+Use this as a working template. Replace every placeholder with real work from that day. Credex may compare this against git history, so keep it accurate and concrete.
 
 ## Day 1 - YYYY-MM-DD
-**Hours worked:2  
-**What I did:*I read the assessment problem statement very carefully and tried to figure out how can i approach this problem, then i thought by myself and then i had a conversation with chatgpt to further enhance my understanding of problem statement*  
--  
--  
-**What I learned:*I didn't learnt anything i just followed the steps i usuallt follow and i have learnt it from my previous experiences.*  
--  
-**Blockers / what I'm stuck on:*I must know the pricing of each AI tools but thing is how to get that, should i hardcode that or is there any other way to handle it.*  
--  
-**Plan for tomorrow:*I will try to figure out how can i have pricing of AI model which is acurate and live pricing.*  
--  
+**Hours worked:** 2  
+**What I did:** I reviewed the assessment prompt carefully, thought through possible approaches, and then discussed the problem with ChatGPT to sharpen my understanding.  
+- I focused on understanding the scope and constraints before writing anything.
+- I started identifying what the audit flow would need to return.
+**What I learned:** I did not learn a new concept that day, but I reinforced the process I usually follow when starting a new task.  
+-
+**Blockers / what I'm stuck on:** I needed a reliable way to handle pricing for each AI tool and was unsure whether to hardcode values or fetch them dynamically.  
+-
+**Plan for tomorrow:** I planned to figure out how to source accurate, live pricing for the AI models.  
+-
 
 ## Day 2 - YYYY-MM-DD
-**Hours worked:4 
-**What I did:*I sit for a long time designing models, controllers in my brain and rethinking that have i missed anything or anything remains, then i moved to controller. Also then moved to figure out the place where i had stucked earlier ie., pricing of each model.*  
--  
--  
-**What I learned:*For pricing i simply used pricing url to extract real time AI model pricing *  
--  
-**Blockers / what I'm stuck on:*Today i am stuck on showing accurate result and i am searching for affordable API key which can give accurate result.*  
--  
-**Plan for tomorrow:*For tomorrow i Will add API Key and will move to frontend part, i will try to design best possible frontend, i will also try to finish rest of the backend task and will furthere test it on postman.*  
--  
+**Hours worked:** 4  
+**What I did:** I spent a long time thinking through the model and controller structure, checking whether I had missed anything, and then returned to the pricing problem I had been stuck on earlier.  
+- I mapped out the backend structure mentally before making changes.
+- I revisited how pricing should be represented in the system.
+**What I learned:** I used pricing URLs to extract real-time AI model pricing.  
+-
+**Blockers / what I'm stuck on:** I was still stuck on producing accurate results and was looking for an affordable API key that could support reliable output.  
+-
+**Plan for tomorrow:** I planned to add the API key, move to the frontend, improve the UI as much as possible, finish the remaining backend work, and test everything in Postman.  
+-
 
 ## Day 3 - YYYY-MM-DD
-**Hours worked:*3*  
-**What I did:*I am testing backend on postman for all routes, at many place i detected my logic issues, it handled those issues and moved on fixing each things*  
--  
--  
-**What I learned:*I learnt reading HTTPS errors and other controllers faults.*  
--  
-**Blockers / what I'm stuck on:*I was stuck at many points , i have to edit my model, controllers and other files in backend.*  
--  
-**Plan for tomorrow:*Backend testing is done on postman everything is working fine and i will move to frontend part next day. I will take copilot,codex help to design frontend.*  
--  
+**Hours worked:** 3  
+**What I did:** I tested the backend in Postman across all routes, found several logic issues, and fixed them one by one.  
+- I used Postman to validate the API surface.
+- I corrected issues as they appeared instead of waiting until the end.
+**What I learned:** I got better at reading HTTPS errors and understanding controller-level failures.  
+-
+**Blockers / what I'm stuck on:** I ran into multiple issues and had to update models, controllers, and other backend files.  
+-
+**Plan for tomorrow:** Backend testing was nearly complete, and I planned to move to the frontend next day with help from Copilot and Codex for the UI design.  
+-
 
 ## Day 4 - YYYY-MM-DD
 **Hours worked:** X  
 **What I did:**  
--  
--  
+-
+-
 **What I learned:**  
--  
+-
 **Blockers / what I'm stuck on:**  
--  
+-
 **Plan for tomorrow:**  
--  
+-
 
 ## Day 5 - YYYY-MM-DD
 **Hours worked:** X  
 **What I did:**  
--  
--  
+-
+-
 **What I learned:**  
--  
+-
 **Blockers / what I'm stuck on:**  
--  
+-
 **Plan for tomorrow:**  
--  
+-
 
 ## Day 6 - YYYY-MM-DD
 **Hours worked:** X  
 **What I did:**  
--  
--  
+-
+-
 **What I learned:**  
--  
+-
 **Blockers / what I'm stuck on:**  
--  
+-
 **Plan for tomorrow:**  
--  
+-
 
 ## Day 7 - YYYY-MM-DD
 **Hours worked:** X  
 **What I did:**  
--  
--  
+-
+-
 **What I learned:**  
--  
+-
 **Blockers / what I'm stuck on:**  
--  
+-
 **Plan for tomorrow:**  
--  
+-
