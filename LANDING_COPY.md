@@ -1,23 +1,23 @@
-# Landing Copy
+# LANDING_COPY
 
-- Hero headline: `See where your AI budget is carrying too much weight`
-- Subheadline: `Audit plans, seat counts, and tool overlap to find realistic AI savings without forcing users through signup first.`
-- Primary CTA copy: `Run the audit`
-- Social proof block: `Mocked for MVP: Used by founders, engineering managers, and ops leads reviewing AI tool budgets`
+- Hero headline: `See where your AI budget is leaking`
+- Subheadline: `Audit plans, seats, and overlapping AI tools in a few minutes, then see realistic monthly and annual savings.`
+- Primary CTA copy: `Run the free audit`
+- Social proof block: `Mocked for MVP: Used by startup founders, engineering managers, and operator-led teams reviewing AI software spend`
 
 ## FAQ
 
 1. Do I need to connect billing accounts?
-No. The tool works from the stack details a team already knows: plan, spend, seats, and use case.
+No. The product is designed for quick use by a cold visitor. You enter your current tools, plans, seats, and monthly spend manually.
 
-2. Is the savings logic AI-generated?
-No. The calculations are deterministic. AI is only used for the short narrative summary.
+2. Is the audit math AI-generated?
+No. The calculations are deterministic and pricing-based. AI is only used for the short personalized summary paragraph.
 
-3. Can I share my report internally?
-Yes. Each report gets a public shareable URL without exposing lead details.
+3. Who is this most useful for?
+Small startup teams with multiple AI subscriptions, mixed coding and chat tooling, and a monthly budget that has grown without a structured review.
 
-4. What if the tool finds very little to save?
-It says so. The tool should be honest when the current stack already looks disciplined.
+4. What if the tool finds almost no savings?
+It says so. The product should be honest when a team already looks well-configured instead of inventing dramatic recommendations.
 
-5. Why is Credex shown on high-savings reports?
-Because those teams are the ones most likely to benefit from discounted AI credits or purchasing help.
+5. Why is Credex mentioned on high-savings reports?
+Because those are the users most likely to benefit from discounted AI credits or procurement help, which is where Credex can be a practical next step instead of just a sponsor logo.

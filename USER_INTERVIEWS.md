@@ -1,10 +1,58 @@
-# USER INTERVIEWS
+# USER_INTERVIEWS
 
-This file must be replaced with notes from three real conversations before submission. The assignment explicitly says fabricated interviews are an instant reject.
+Use this template for three real conversations. Keep the quotes direct and specific. Generic interview notes are easy to spot.
 
-For each interview include:
-- person or initials
-- role and company stage
-- at least 3 direct quotes
-- most surprising thing they said
-- what changed in the product because of that conversation
+## Interview 1 - Name or initials
+**Role:**  
+**Company stage:**  
+
+**Context:**  
+- How you know them or where you found them
+- Why they were relevant to this product
+
+**Direct quotes:**  
+- "..."
+- "..."
+- "..."
+
+**Most surprising thing they said:**  
+-  
+
+**What it changed in the product:**  
+-  
+
+## Interview 2 - Name or initials
+**Role:**  
+**Company stage:**  
+
+**Context:**  
+-  
+
+**Direct quotes:**  
+- "..."
+- "..."
+- "..."
+
+**Most surprising thing they said:**  
+-  
+
+**What it changed in the product:**  
+-  
+
+## Interview 3 - Name or initials
+**Role:**  
+**Company stage:**  
+
+**Context:**  
+-  
+
+**Direct quotes:**  
+- "..."
+- "..."
+- "..."
+
+**Most surprising thing they said:**  
+-  
+
+**What it changed in the product:**  
+-  

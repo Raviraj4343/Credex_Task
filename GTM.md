@@ -1,11 +1,13 @@
 # GTM
 
-This file needs your own founder-style go-to-market thinking before submission. It should not read like a template.
+The exact target user is not “startups” in general. It is an engineering manager, founder, or head of operations at a 10 to 80 person startup that adopted multiple AI tools quickly over the last 6 to 18 months and now has a monthly AI line item large enough to feel annoying but not yet large enough to justify a full procurement review. In practice, I would start with seed to Series A SaaS companies, dev tools companies, and AI-enabled agencies, because they are the most likely to have both engineering seats and multiple chat/API subscriptions at the same time.
 
-Minimum topics to replace with real content:
-- exact target user
-- trigger moment for using the product
-- specific communities where they spend time
-- concrete zero-budget first-100-user plan
-- unfair distribution angle
-- what week-1 traction would look like numerically
+The trigger moment for wanting this product is usually not abstract curiosity. It is a concrete budget-review moment: finance asks why AI spend jumped, a founder notices duplicate subscriptions, or a team starts renewing annual software and realizes nobody has done a proper pass on AI tooling. The searches and browsing behavior around that moment are specific: “Cursor vs Copilot cost for teams,” “Claude team pricing,” “reduce OpenAI API spend,” “best AI coding tool for startup,” or “how much should a startup spend on AI tools.” On social platforms, the adjacent behavior is reading threads about tool switching, model pricing, or developer workflow stacks.
+
+For distribution, I would focus on channels where the user is already discussing tools and budgets in public. The most relevant places are X/Twitter founder circles, Indie Hackers, Hacker News, the SaaS and startup subreddits, AI engineering Discords, and small founder or operator Slack communities. The message would not be “here is an AI spend calculator.” It would be “we audited our own stack and found avoidable AI waste; try the same on yours in 3 minutes.” That framing is more likely to earn clicks because it sounds like a practical second-opinion tool, not a generic calculator.
+
+My first 100 users in 30 days with zero paid budget would come from four moves. First, launch the tool with a short founder-style thread showing three realistic examples of wasted spend. Second, write a concise build-and-findings post on Indie Hackers and Hacker News with screenshots of the result page. Third, manually DM 30 to 50 founders, engineering managers, and operators with a personalized note tied to their public team size or tool usage. Fourth, turn every high-signal user conversation into a sharper landing page and one more distribution asset. The goal is not broad reach at the start; it is to find 10 people who actually care and then use their reactions to improve the next wave.
+
+The unfair distribution angle for Credex is that the tool is not just content. It is upstream of a real monetizable problem the company already solves: overpaying for AI infrastructure and tooling. If the audit reliably finds cases with meaningful savings, Credex can convert a free budgeting tool into a qualified lead engine for discounted credits and advisory-style procurement help. That is stronger than a standalone content site because there is a natural commercial next step when the audit finds large waste.
+
+If this works, week-one traction would not be judged by raw page views. The numbers I would care about are: 300 to 500 landing page visitors, 60 to 100 completed audits, 20 to 30 saved reports, and 5 to 10 high-savings users with more than $500/month in identified savings. If even 3 to 5 of those users book a follow-up call, the tool is already proving it can create real commercial intent rather than just social engagement.

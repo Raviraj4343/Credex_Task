@@ -1,9 +1,9 @@
 # METRICS
 
-This file still needs your real product-metrics thinking before submission.
+My North Star metric for this product would be `high-savings qualified reports per week`. I would define that as completed audits that identify more than $500 in monthly savings and result in a saved report or consultation click. I prefer this over raw completed audits because the product exists to create valuable commercial intent for Credex, not just casual usage. A thousand low-signal audits from curious developers are less useful than 30 reports from teams with real spend problems.
 
-Make sure you cover:
-- one north-star metric
-- three input metrics
-- first instrumentation plan
-- the threshold that would trigger a pivot
+The first input metric is `landing page visitor to audit completion rate`. This tells me whether the value proposition and form experience are clear enough for a cold visitor to try the tool. If this is weak, the issue is likely messaging, trust, or form friction. The second input metric is `audit completion to saved report rate`. That measures whether the results page is compelling enough for users to want the output delivered or preserved. The third input metric is `high-savings report to consultation click rate`, because that is the clearest sign that the audit is surfacing a painful enough problem for Credex to help solve.
+
+The first instrumentation I would add is lightweight funnel tracking: landing page view, form started, audit submitted, audit completed, report saved, share link copied, consultation CTA clicked. On the backend, I would also log audit characteristics such as tool mix, team size bucket, monthly savings bucket, and whether the LLM fallback was used. That would help answer practical questions quickly: which stacks generate the best leads, whether the high-savings threshold is calibrated well, and whether certain result-page states convert better than others.
+
+The pivot trigger would not be “traffic is low.” Early traffic is always noisy. I would consider a real pivot if, after 200 to 300 completed audits, fewer than 10 percent qualify as high-savings cases or fewer than 10 percent of high-savings users save their report or click the follow-up CTA. That would suggest one of two things: either the target audience is wrong, or the audit is not surfacing a problem people feel strongly enough to act on. At that point I would rethink distribution, user targeting, and the savings logic before investing more in visual polish or feature breadth.
